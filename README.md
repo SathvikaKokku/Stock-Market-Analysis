@@ -3,7 +3,7 @@ Understanding Stock Market using Technical Analysis on Laurus Labs
 
 Project Focus:
 
-1.Identifying the fluctuations in stock value based on technical analysis and assumptions. 
+1. Identifying the fluctuations in stock value based on technical analysis and assumptions. 
 
 2. Analysing the data of various time periods to meet different investment needs of the investors.
     
